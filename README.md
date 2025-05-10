@@ -23,14 +23,21 @@ This repository provides an enhanced **template matching** algorithm designed fo
 ## Demo
 
 - Example 1:
+  <br/>
   Original Template: ![template_1](https://github.com/user-attachments/assets/b7f939e0-b7e7-4c27-b3ce-4b5880895fda)
+  <br/>
   Cropped Template: ![cropped_template_1](https://github.com/user-attachments/assets/373d0c0e-134f-4d5e-9301-7e3d20eeb8d7)
+  <br/>
   Matched Result: ![result_1](https://github.com/user-attachments/assets/d3c071c5-e4cb-4d62-bbd5-7cdd799e3b31)
-
+<br/>
 - Example 2:
+- <br/>
   Original Template: ![template_2](https://github.com/user-attachments/assets/090b87f7-b53e-4211-b40a-df889ffdc4d7)
+  <br/>
   Cropped Template: ![cropped_template_2](https://github.com/user-attachments/assets/2d4cf4c9-9204-43ce-94e5-d84ff121f1d2)
+  <br/>
   Matched Result: ![result_2](https://github.com/user-attachments/assets/a58db328-616b-40b2-be41-18c460020e38)
+  <br/>
 
 
 ---
