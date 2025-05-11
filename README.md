@@ -2,6 +2,8 @@
 
 This repository provides an enhanced **template matching** algorithm designed for **robust and low-cost object detection** and **grasp pose estimation** in robotic systems. Unlike traditional OpenCV-based template matching, this approach handles objects with **different rotations, scales, and colors**, while also eliminating redundant matches.
 
+
+[Click Here for Video Explanation](https://drive.google.com/drive/folders/1IfrwVOz90JldG-GKBVHhbAQr7a19jy_B)
 ---
 
 ## Features
